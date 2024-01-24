@@ -5,9 +5,9 @@
   }
   .formBox{
     min-width: 100%;
-    height: 55vh;
+    height: 50vh;
     border-radius: 5px;
-    border:dotted blue 2vw;
+    border:blue 2vw;
     margin: 0vw;
     padding: 5vw;
     position: relative;
